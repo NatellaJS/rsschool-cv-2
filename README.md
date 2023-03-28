@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NatellaJS.github.io/rsschool-cv/cv
