@@ -18,3 +18,21 @@ My strong point is the desire to learn something new. I am convinced that the ab
 * Git/Github
 * VS Code
 * Adobe Photoshop
+
+## Code example:
+```
+function multiply(a, b){
+    return a * b
+}
+```
+## Education:
+* Moscow University for Industry and Finance (MUIF), Moscow - "Project management"
+* Courses:
+  + Hexlet - "Python Language Basics"
+  + Stepic - "HTML and CSS Basics"
+  + Netology - "Basics of site layout"
+  + RS School - "JavaScript\Frontend. Stage 0" (in process)
+
+## Languages:
+* Russian - native speaker
+* English - B1
